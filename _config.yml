@@ -1,7 +1,7 @@
 # Site
 title:              Erhan Gülas
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+bio:                'Software Engineer'
+description:        "My Blog"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -39,10 +39,10 @@ disqus_shortname:   erhangulas
 #bing-verify:
 #email:
 twitter:            erhangulas
-facebook:           erhangulas
+#facebook:           erhangulas
 github:             erhangulas
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:           erhangulas
 #xing:              username
 instagram:          erhangulas
 #lastfm:            username
